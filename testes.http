@@ -1,0 +1,7 @@
+### Testar Chat do Agente
+POST http://127.0.0.1:8080/chat
+Content-Type: application/json
+
+{
+    "message": "Qual o faturamento total de 2025?"
+}
